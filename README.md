@@ -1,4 +1,5 @@
 # projeto-psis
-Projeto da UC Programação de Sistemas
 
-Implementação multiplayer do jogo "Pong" com threads
+Systems Programming course project
+
+Creating "Pong" game with multiplayer modes, using threads in C.
